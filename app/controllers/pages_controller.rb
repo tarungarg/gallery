@@ -8,6 +8,9 @@ class PagesController < ApplicationController
   def newsevents
   end
 
+  def sitemap
+  end
+
   def contact
   end
 end
