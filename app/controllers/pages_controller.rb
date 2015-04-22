@@ -5,6 +5,9 @@ class PagesController < ApplicationController
   def artworks
   end
 
+  def newsevents
+  end
+
   def contact
   end
 end
